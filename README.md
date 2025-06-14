@@ -26,7 +26,6 @@ A beautiful and modern BMI (Body Mass Index) calculator built with Flutter using
 - Flutter SDK (>=3.0.0)
 - Dart SDK (>=2.17.0)
 - Android Studio / VS Code
-- Git
 
 ### Installation
 
